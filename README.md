@@ -60,18 +60,11 @@ Basic Formulas – SUM, Profit Margin %, Shipping Days calculation
 Data Visualization – Charts, Slicers, Pivot Tables
 
 
+
+
+
+
 📸 Dashboard Preview
-
-
-
-
-
-
-
-
-
-
-
 
 
 
