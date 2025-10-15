@@ -10,21 +10,23 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 # 🎯 Key Features
 
- 📅 Sales trend analysis (2016–2019)
+ - 📅 Sales trend analysis (2016–2019)
 
-📦 Order vs. Shipping days tracking
+- 📦 Order vs. Shipping days tracking
 
-💰 Profit Margin % calculation (Profit / Sales * 100)
+- 💰 Profit Margin % calculation (Profit / Sales * 100)
 
-🔍 Region & Category-wise performance analysis
+- 🔍 Region & Category-wise performance analysis
 
-📊 Clean and interactive Excel dashboard with slicers & filters
+- 📊 Clean and interactive Excel dashboard with slicers & filters
 
 
+
+```
 ## 📂 Folder Structure
 📦 Sales Dashboard
 ┣ 📂 data
-┃ ┣ 📂 raw → Raw Sales data
+┃ ┣ 📂 raw → Raw Superstore data
 ┃ ┣ 📂 cleaned → Cleaned dataset
 ┃ ┗ 📂 processed → Processed dataset
 ┣ 📂 excel
@@ -32,23 +34,26 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 ┣ 📂 docs
 ┃ ┗ Project screenshots
 ┗ README.md
-
-
-
-# 🛠️ Tools Used
-
-Microsoft Excel – Data Cleaning, Transformation, and Dashboard
-
-Basic Formulas – SUM, Profit Margin %, Shipping Days calculation
-
-Data Visualization – Charts, Slicers, Pivot Tables
+```
 
 
 
 
 
+## 🛠️ Tools Used
 
-# 📸 Dashboard Preview
+-** Microsoft Excel** – Data Cleaning, Transformation, and Dashboard
+
+-** Basic Formulas** – SUM, Profit Margin %, Shipping Days calculation
+
+-** Data Visualization** – Charts, Slicers, Pivot Tables
+
+
+
+
+
+
+## 📸 Dashboard Preview
 
 
 
@@ -63,13 +68,13 @@ Data Visualization – Charts, Slicers, Pivot Tables
 
 
 
-# 🚀 How to Use
+## 🚀 How to Use
 
 1. Download or clone this repository
 
-bash
+ ```bash
 git clone https://github.com/harshada4912/Sales-Dashboard.git
-
+```
 
 2. Open the Excel file inside excel/Dashboard/.
   
@@ -80,7 +85,7 @@ git clone https://github.com/harshada4912/Sales-Dashboard.git
 
 
 
-# 📈 Key Insights
+##📈 Key Insights
 
 ✅ West Region → highest sales contribution
 
@@ -93,11 +98,11 @@ git clone https://github.com/harshada4912/Sales-Dashboard.git
 
 
 
-## 👤 Author
+# 👤 Author
 
-- *Name:* Harshada Pawar
-- *Email:* harshadapawar4912@gmail.com
-- *GitHub:* [Profile](https://github.com/harshada4912)
+### *Name:* Harshada Pawar
+### *Email:* harshadapawar4912@gmail.com
+### *GitHub:* [Profile](https://github.com/harshada4912)
 
 
 
