@@ -103,11 +103,11 @@ git clone https://github.com/harshada4912/Sales-Dashboard.git
 
 
 
-# ✍️ Author
+## 👤 Author
 
-👤 Harshada Pawar
-
-🔗 GitHub
+- *Name:* Harshada Pawar
+- *Email:* harshadapawar4912@gmail.com
+- *GitHub:* [Profile](https://github.com/harshada4912)
 
 
 
