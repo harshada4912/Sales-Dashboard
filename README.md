@@ -24,19 +24,28 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 ## 📂 Folder Structure
 📦 Sales Dashboard
+
 ┣ 📂 data
+
 ┃ ┣ 📂 raw → Raw Sales data
+
 ┃ ┣ 📂 cleaned → Cleaned dataset
+
 ┃ ┗ 📂 processed → Processed dataset
+
 ┣ 📂 excel
+
 ┃ ┗ 📂 Dashboard → Final Excel Dashboard file
+
 ┣ 📂 docs
+
 ┃ ┗ Project screenshots
+
 ┗ README.md
 
 
 
-🛠️ Tools Used
+# 🛠️ Tools Used
 
 Microsoft Excel – Data Cleaning, Transformation, and Dashboard
 
@@ -49,7 +58,7 @@ Data Visualization – Charts, Slicers, Pivot Tables
 
 
 
-📸 Dashboard Preview
+# 📸 Dashboard Preview
 
 
 
@@ -64,7 +73,7 @@ Data Visualization – Charts, Slicers, Pivot Tables
 
 
 
-🚀 How to Use
+# 🚀 How to Use
 
 1. Download or clone this repository
 
@@ -81,7 +90,7 @@ git clone https://github.com/harshada4912/Sales-Dashboard.git
 
 
 
-📈 Key Insights
+# 📈 Key Insights
 
 ✅ West Region → highest sales contribution
 
