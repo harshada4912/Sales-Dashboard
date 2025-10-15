@@ -42,11 +42,11 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 ## 🛠️ Tools Used
 
--** Microsoft Excel** – Data Cleaning, Transformation, and Dashboard
+- ** Microsoft Excel ** – Data Cleaning, Transformation, and Dashboard
 
--** Basic Formulas** – SUM, Profit Margin %, Shipping Days calculation
+- ** Basic Formulas ** – SUM, Profit Margin %, Shipping Days calculation
 
--** Data Visualization** – Charts, Slicers, Pivot Tables
+- ** Data Visualization ** – Charts, Slicers, Pivot Tables
 
 
 
