@@ -86,7 +86,9 @@ Data Visualization – Charts, Slicers, Pivot Tables
 
 
 
+
 🚀 How to Use
+
 
 
 1. Download or clone this repository
@@ -121,7 +123,10 @@ git clone https://github.com/harshada4912/Sales-Dashboard.git
 ✅ Top Customer: Sean Miller contributed maximum sales
 
 
+
+
 ✍️ Author
+
 
 
 👤 Harshada Pawar
