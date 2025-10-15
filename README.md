@@ -22,27 +22,19 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 
 
-### 📂 Folder Structure
-
+## 📂 Folder Structure
 📦 Sales Dashboard
-
 ┣ 📂 data
-
 ┃ ┣ 📂 raw → Raw Sales data
-
 ┃ ┣ 📂 cleaned → Cleaned dataset
-
 ┃ ┗ 📂 processed → Processed dataset
-
 ┣ 📂 excel
-
 ┃ ┗ 📂 Dashboard → Final Excel Dashboard file
-
 ┣ 📂 docs
-
 ┃ ┗ Project screenshots
-
 ┗ README.md
+
+
 
 🛠️ Tools Used
 
@@ -74,13 +66,10 @@ Data Visualization – Charts, Slicers, Pivot Tables
 
 🚀 How to Use
 
-
-
 1. Download or clone this repository
 
 bash
 git clone https://github.com/harshada4912/Sales-Dashboard.git
-
 
 
 2. Open the Excel file inside excel/Dashboard/.
@@ -94,16 +83,11 @@ git clone https://github.com/harshada4912/Sales-Dashboard.git
 
 📈 Key Insights
 
-
-
 ✅ West Region → highest sales contribution
-
 
 ✅ Office Supplies → most profitable category
 
-
 ✅ Average Shipping Days ~ 4 → standard across ship modes
-
 
 ✅ Top Customer: Sean Miller contributed maximum sales
 
@@ -112,10 +96,7 @@ git clone https://github.com/harshada4912/Sales-Dashboard.git
 
 ✍️ Author
 
-
-
 👤 Harshada Pawar
-
 
 🔗 GitHub
 
