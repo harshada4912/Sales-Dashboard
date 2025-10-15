@@ -12,7 +12,14 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 
 
+
+
+
 🎯 Key Features
+
+
+
+
 
 📅 Sales trend analysis (2016–2019)
 
@@ -23,6 +30,7 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 🔍 Region & Category-wise performance analysis
 
 📊 Clean and interactive Excel dashboard with slicers & filters
+
 
 
 
