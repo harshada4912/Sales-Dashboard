@@ -63,6 +63,11 @@ Data Visualization – Charts, Slicers, Pivot Tables
 📸 Dashboard Preview
 
 
+
+
+
+
+
 <img width="1138" height="577" alt="Screenshot 2025-10-11 131723" src="https://github.com/user-attachments/assets/563dd167-b77f-49b2-87d2-df6b9c091113" />
 
 
