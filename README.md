@@ -35,7 +35,7 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 ┣ 📂 data
 
-┃ ┣ 📂 raw → Raw Superstore data
+┃ ┣ 📂 raw → Raw Sales data
 
 ┃ ┣ 📂 cleaned → Cleaned dataset
 
