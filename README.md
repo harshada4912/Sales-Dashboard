@@ -7,12 +7,18 @@ The dashboard provides insights into sales, profit, and order performance across
 
 It is designed to help business users quickly identify trends, track KPIs, and make data-driven decisions.
 
+
+
+
 🎯 Key Features
 📅 Sales trend analysis (2016–2019)
 📦 Order vs. Shipping days tracking
 💰 Profit Margin % calculation (Profit / Sales * 100)
 🔍 Region & Category-wise performance analysis
 📊 Clean and interactive Excel dashboard with slicers & filters
+
+
+
 
 
 
