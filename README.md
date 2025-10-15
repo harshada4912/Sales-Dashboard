@@ -22,7 +22,7 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 
 
 
-## 📂 Folder Structure
+### 📂 Folder Structure
 
 📦 Sales Dashboard
 
