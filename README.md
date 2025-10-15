@@ -37,17 +37,27 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 ┃ ┣ 📂 raw → Raw Superstore data
 
 ┃ ┣ 📂 cleaned → Cleaned dataset
+
 ┃ ┗ 📂 processed → Processed dataset
+
 ┣ 📂 excel
+
 ┃ ┗ 📂 Dashboard → Final Excel Dashboard file
+
 ┣ 📂 docs
+
 ┃ ┗ Project screenshots
+
 ┗ README.md
 
 🛠️ Tools Used
+
 Microsoft Excel – Data Cleaning, Transformation, and Dashboard
+
 Basic Formulas – SUM, Profit Margin %, Shipping Days calculation
+
 Data Visualization – Charts, Slicers, Pivot Tables
+
 
 📸 Dashboard Preview
 
