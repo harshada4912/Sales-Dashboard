@@ -21,26 +21,16 @@ It is designed to help business users quickly identify trends, track KPIs, and m
 📊 Clean and interactive Excel dashboard with slicers & filters
 
 
-
 ## 📂 Folder Structure
 📦 Sales Dashboard
-
 ┣ 📂 data
-
 ┃ ┣ 📂 raw → Raw Sales data
-
 ┃ ┣ 📂 cleaned → Cleaned dataset
-
 ┃ ┗ 📂 processed → Processed dataset
-
 ┣ 📂 excel
-
 ┃ ┗ 📂 Dashboard → Final Excel Dashboard file
-
 ┣ 📂 docs
-
 ┃ ┗ Project screenshots
-
 ┗ README.md
 
 
