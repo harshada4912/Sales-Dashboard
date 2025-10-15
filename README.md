@@ -84,3 +84,50 @@ Data Visualization – Charts, Slicers, Pivot Tables
 
 
 
+
+
+🚀 How to Use
+
+
+1. Download or clone this repository
+
+bash
+git clone https://github.com/harshada4912/Sales-Dashboard.git
+
+
+
+2. Open the Excel file inside excel/Dashboard/.
+  
+
+3. Interact with the slicers & charts to explore insights.
+
+
+
+
+
+📈 Key Insights
+
+
+
+✅ West Region → highest sales contribution
+
+
+✅ Office Supplies → most profitable category
+
+
+✅ Average Shipping Days ~ 4 → standard across ship modes
+
+
+✅ Top Customer: Sean Miller contributed maximum sales
+
+
+✍️ Author
+
+
+👤 Harshada Pawar
+
+
+🔗 GitHub
+
+
+
